@@ -70,7 +70,9 @@ Este repositório contém implementações de diversos algoritmos de regressão 
 
 
 ### Regressão Logística
-![image](https://github.com/Ale-Sampaio/Regressao-Classificacao-BI/assets/121987957/cb4ef55d-139b-40a8-ac87-3195280ab4cc)
+![image](https://github.com/Ale-Sampaio/Regressao-Classificacao-BI/assets/121987957/7d290ec0-df86-42cb-aceb-9c44c0792a6f)
+![image](https://github.com/Ale-Sampaio/Regressao-Classificacao-BI/assets/121987957/90b6127a-0332-4d6d-8b0b-914054c6ae36)
+
 
 
 ### Regressão Polinomial
